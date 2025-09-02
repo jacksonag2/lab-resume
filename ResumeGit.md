@@ -1,5 +1,7 @@
 #   Aiden Jackson
 
+file:///C:/Users/jacksonag2/Desktop/New%20folder/App%20Logo.png
+
 <img src="/New folder/App Logo.png">
 <width="100">
 
@@ -45,3 +47,4 @@ Additionally, although it is not a part of my major, I am minoring in History at
 
 
 8 months of experience working for Lari Jackson Psyd, helping plan business expenses and assisting in determining optimal locations to open physical offices.
+
