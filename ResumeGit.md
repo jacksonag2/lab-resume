@@ -4,9 +4,6 @@ file:///C:/Users/jacksonag2/Desktop/New%20folder/App%20Logo.png
 
 <img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/dd095b3b-e025-42fb-8833-679e217a486c" />
 
-
-<width="100">
-
 ##### Senior in Geography and Geographic Information Systems at Appalachian State University, North Carolina, USA
 
 https://geo.appstate.edu/
@@ -49,5 +46,6 @@ Additionally, although it is not a part of my major, I am minoring in History at
 
 
 8 months of experience working for Lari Jackson Psyd, helping plan business expenses and assisting in determining optimal locations to open physical offices.
+
 
 
