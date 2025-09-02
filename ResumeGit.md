@@ -5,6 +5,8 @@
 
 ##### Senior in Geography and Geographic Information Systems at Appalachian State University, North Carolina, USA
 
+https://geo.appstate.edu/
+
 jacksonag2@appstate.edu
 
 ---
@@ -40,5 +42,6 @@ Additionally, although it is not a part of my major, I am minoring in History at
 2 years of experience working for the Town of Cary Parks, Recreation, and Cultural Services department as a summer camp counselor and activities specialist.
 
 **Psychiatric Aide/Personal Assistant**
+
 
 8 months of experience working for Lari Jackson Psyd, helping plan business expenses and assisting in determining optimal locations to open physical offices.
